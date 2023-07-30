@@ -26,4 +26,15 @@ GitHub 存储库star历史图
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b1cb8bc4-eb64-4da0-b254-aa8884afa9e0)
 
+## 6.[githubchart-api](https://github.com/2016rshah/githubchart-api)
+📅将 github 贡献图表嵌入为图像
 
+制作这个：
+
+<img src="http://ghchart.rshah.org/King0420" alt="2016rshah's Github chart" />
+
+有了这个：
+```html
+<img src="https://ghchart.rshah.org/2016rshah" alt="2016rshah's Github chart" />
+```
+当然，您可以替换为自己的github用户名。2016rshah
