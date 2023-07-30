@@ -44,6 +44,26 @@ A fresher "Fork me on GitHub" callout.
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/7a93aaca-8ba6-4565-b842-0fdad751ec4d)
 
-## 8.
+## 8.[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+🎬 ScreenToGif 允许您录制屏幕的选定区域，编辑并将其另存为 gif 或视频。
 
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/1eb62bbd-2591-4778-92b3-f0a700bf807c)
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/9632520d-2033-4a5b-ba07-2b8ccd1e50f8)
+
+## 9.[listen1_desktop](https://github.com/listen1/listen1_desktop)
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。
+
+支持音乐平台
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
+- imgur
+  
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b7921486-f329-40cc-80d1-de3a2a9253ac)
+
+- 支持 Windows，Mac，Linux 平台
 
