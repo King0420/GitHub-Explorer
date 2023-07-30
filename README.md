@@ -38,3 +38,12 @@ GitHub 存储库star历史图
 <img src="https://ghchart.rshah.org/2016rshah" alt="2016rshah's Github chart" />
 ```
 当然，您可以替换为自己的github用户名。2016rshah
+
+## 7.[github-corners](https://github.com/tholman/github-corners)
+A fresher "Fork me on GitHub" callout.
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/7a93aaca-8ba6-4565-b842-0fdad751ec4d)
+
+## 8.
+
+
