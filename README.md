@@ -1,5 +1,5 @@
 # GitHub-Explorer
-> 本仓库主要收集有趣的项目
+> 本仓库主要收集GitHub有趣的项目
 > 
 ## 1.[readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 ⚡动态生成的可自定义 SVG，提供键入和删除文本的外观，以便在您的个人资料页面、存储库或网站上使用。
