@@ -66,4 +66,30 @@ Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你�
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b7921486-f329-40cc-80d1-de3a2a9253ac)
 
 - 支持 Windows，Mac，Linux 平台
+## 10.[lipstick](https://github.com/Ovilia/lipstick)
+口红颜色可视化 - 为什么你的女神总缺一支口红
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/c88cc0c4-81cf-4a98-ba54-958ec1893404)
+
+## 11.[github-rank](https://github.com/jaywcjlove/github-rank)
+🕷️Github中国/全球用户排名，全球仓库之星排名（Github行动每天自动更新）。
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/82d1bdc7-ab72-46c1-af22-fa60368e3ede)
+
+## 12.[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
+About
+🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b638fac8-9d22-445c-9282-b74cdbbe516a)
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/3a85af37-9a9c-4e17-92f9-5705fa4a4cca)
+
+## 13.[Office-Tool](https://github.com/YerongAI/Office-Tool)
+用于 Office 部署的强大且有用的工具。
+支持自定义部署和激活以下产品：
+- Microsoft 365.
+- Office 2016, 2019, 2021.
+- Visio 2016, 2019, 2021 & Online Plan 2.
+- Project 2016, 2019, 2021 & Online Desktop Client.
+  
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/cecc7dfe-db46-4f10-8fd4-5942d15d39c7)
+
+
 
