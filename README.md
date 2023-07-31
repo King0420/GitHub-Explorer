@@ -25,11 +25,13 @@
 
 ## 4.[logoly](https://github.com/bestony/logoly)
 > https://www.logoly.pro/#/
-> 
+
 Pornhub风格徽标生成器
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/a8f246bd-07c1-43ee-ac54-4768562a3f45)
 
 ## 5.[star-history](https://github.com/star-history/star-history)
+> https://star-history.com/
+
 GitHub 存储库star历史图
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b1cb8bc4-eb64-4da0-b254-aa8884afa9e0)
