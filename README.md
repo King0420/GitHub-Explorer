@@ -104,6 +104,8 @@ About
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/3a85af37-9a9c-4e17-92f9-5705fa4a4cca)
 
 ## 13.[Office-Tool](https://github.com/YerongAI/Office-Tool)
+> https://otp.landian.vip/zh-cn/
+
 用于 Office 部署的强大且有用的工具。
 支持自定义部署和激活以下产品：
 - Microsoft 365.
