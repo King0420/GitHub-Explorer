@@ -118,7 +118,17 @@ About
 ## 14.[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 > 激活Windows系统
 
-## 15.
+## 15.[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持最新版微信/QQ/TIM，其中微信能够选择安装多开功能。
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/72d388b4-ecac-428b-820d-4871bd4d4eb2)
+
+## 16.[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/adc7a2f8-fd76-426a-88a6-606768722f0f)
+
+
 
 
 
