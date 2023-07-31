@@ -24,6 +24,8 @@
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/d9d1ba6d-9007-46f6-8202-b44d06a5674a)
 
 ## 4.[logoly](https://github.com/bestony/logoly)
+> https://www.logoly.pro/#/
+> 
 Pornhub风格徽标生成器
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/a8f246bd-07c1-43ee-ac54-4768562a3f45)
 
