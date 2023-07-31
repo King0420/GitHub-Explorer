@@ -59,12 +59,16 @@ A fresher "Fork me on GitHub" callout.
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/7a93aaca-8ba6-4565-b842-0fdad751ec4d)
 
 ## 8.[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+> https://www.screentogif.com/
+
 🎬 ScreenToGif 允许您录制屏幕的选定区域，编辑并将其另存为 gif 或视频。
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/1eb62bbd-2591-4778-92b3-f0a700bf807c)
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/9632520d-2033-4a5b-ba07-2b8ccd1e50f8)
 
 ## 9.[listen1_desktop](https://github.com/listen1/listen1_desktop)
+> http://listen1.github.io/listen1/
+
 Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。
 
 支持音乐平台
@@ -81,11 +85,15 @@ Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你�
 
 - 支持 Windows，Mac，Linux 平台
 ## 10.[lipstick](https://github.com/Ovilia/lipstick)
+> http://zhangwenli.com/lipstick/
+
 口红颜色可视化 - 为什么你的女神总缺一支口红
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/c88cc0c4-81cf-4a98-ba54-958ec1893404)
 
 ## 11.[github-rank](https://github.com/jaywcjlove/github-rank)
+> https://wangchujiang.com/github-rank/
+
 🕷️Github中国/全球用户排名，全球仓库之星排名（Github行动每天自动更新）。
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/82d1bdc7-ab72-46c1-af22-fa60368e3ede)
 
