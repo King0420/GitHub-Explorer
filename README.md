@@ -18,6 +18,8 @@
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/17bb9691-6b01-4422-be1d-10fed48d8737)
 
 ## 3.[shields](https://github.com/badges/shields)
+> https://shields.io/
+
 简洁、一致且清晰的 SVG 和光栅格式徽
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/d9d1ba6d-9007-46f6-8202-b44d06a5674a)
 
