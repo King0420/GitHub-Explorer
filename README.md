@@ -83,7 +83,7 @@ Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你�
   
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/b7921486-f329-40cc-80d1-de3a2a9253ac)
 
-- 支持 Windows，Mac，Linux 平台
+支持 Windows，Mac，Linux 平台
 ## 10.[lipstick](https://github.com/Ovilia/lipstick)
 > http://zhangwenli.com/lipstick/
 
