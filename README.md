@@ -151,5 +151,14 @@ About
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/83d3e79a-4ae0-43cc-b58e-9aa1984dd658)
 
+## 20.[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+> https://lxmusic.toside.cn/
+
+一个基于 electron 的音乐软件
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/195fdd52-4629-42e9-9540-9cba4045d571)
+
+
+
 
 
