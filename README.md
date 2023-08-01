@@ -146,6 +146,10 @@ About
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
 ```
+## 19.[CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX)
+【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/83d3e79a-4ae0-43cc-b58e-9aa1984dd658)
 
 
 
