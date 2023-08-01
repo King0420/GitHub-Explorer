@@ -131,6 +131,8 @@ About
 ## 17.[ContextMenuManager)](https://github.com/BluePointLilac/ContextMenuManager)
 > https://bluepointlilac.github.io/ContextMenuManager/
 
+🖱️ 纯粹的Windows右键菜单管理程序
+
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/fbc5edc2-4ba4-4c25-bcad-7965de3b5cf6)
 
 
