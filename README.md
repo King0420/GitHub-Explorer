@@ -135,6 +135,17 @@ About
 
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/fbc5edc2-4ba4-4c25-bcad-7965de3b5cf6)
 
+## 18.[starcharts](https://github.com/caarlos0/starcharts)
+> https://starchart.cc/
+
+绘制存储库star随时间的变化。
+
+![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/4a89c548-ee3b-4f2d-aa90-e002b08895b5)
+
+```markdown
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
+```
 
 
 
