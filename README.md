@@ -159,9 +159,28 @@ About
 ![image](https://github.com/King0420/GitHub-Explorer/assets/104044278/195fdd52-4629-42e9-9540-9cba4045d571)
 
 ## 21.LeetCode学习笔记
+
 - [leetcode_101](https://github.com/changgyhub/leetcode_101)
   - LeetCode 101：和你一起你轻松刷题（C++）
   - https://www.changgy.com/leetcode-101
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+  - https://books.halfrost.com/leetcode/
+
+![img](https://camo.githubusercontent.com/9ea3104a25803e83ae3f4e3eafa7ebb9924a3c655fb2e0241d2a2d1468ed7b62/68747470733a2f2f696d672e68616c66726f73742e636f6d2f4c656574636f64652f436f6f6b626f6f6b5f5361666172695f302e706e67)
+
+![overview](https://github.com/changgyhub/leetcode_101/raw/master/overview.png)
+
+## 22.[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
+
+> [ElegantBook Template - Overleaf, Online LaTeX Editor](https://www.overleaf.com/latex/templates/elegantbook-template/zpsrbmdsxrgy)
+
+**ElegantBook**：**优美的**$\LaTeX$**书籍模板**
+
+![image-20230802115235484](https://github.com/King0420/GitHub-Explorer/assets/104044278/85e950f3-db6d-477e-a42c-899c56618ed7)
+
+
+
 
 
 
