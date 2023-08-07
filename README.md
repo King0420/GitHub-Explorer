@@ -179,6 +179,181 @@ About
 
 ![image-20230802115235484](https://github.com/King0420/GitHub-Explorer/assets/104044278/85e950f3-db6d-477e-a42c-899c56618ed7)
 
+## 23.[lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)
+
+一份（不太）简短的 $\LaTeX$介绍
+
+## 24.[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
+> [ChatGPT Next Web](https://chatgpt1.nextweb.fun/)
+
+一个精心设计的跨平台ChatGPT UI（Web / PWA / Linux / Win / MacOS）。一键拥有你自己的跨平台 ChatGPT 应用。
+
+![cover](https://github.com/Yidadaa/ChatGPT-Next-Web/raw/main/docs/images/cover.png)
+
+## 25.[chatbox](https://github.com/Bin-Huang/chatbox)
+
+> [Chatbox - Your AI Copilot on the Desktop (chatboxai.app)](https://chatboxai.app/)
+
+Chatbox是一款桌面应用程序，适用于Windows，Mac，Linux上的多个尖端LLM模型
+
+ ![img](https://github.com/Bin-Huang/chatbox/raw/main/doc/snapshot2.png)
+ ## 26.[Repo-Roster](https://github.com/nastyox/Repo-Roster)
+
+> https://reporoster.com/
+
+在 GitHub README 文件中大声疾呼支持者。
+
+![Repo roster demo](https://camo.githubusercontent.com/be1f7e00cc173b9900e721189bb657e3a83954ef91844503c1ebc1f61fba6c7f/68747470733a2f2f7265706f726f737465722e636f6d2f696d616765732f7265706f726f7374657264656d6f372e676966)
+
+## 27.[contributors-img](https://github.com/lacolaco/contributors-img)
+
+> https://contrib.rocks/preview?repo=angular%2Fangular-ja
+
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+## 28.[socialify](https://github.com/wei/socialify)
+
+> [GitHub Socialify](https://socialify.git.ci/)
+
+💞社交化您的项目。🌐与世界分享
+
+![mind-elixir-core](https://socialify.git.ci/ssshooter/mind-elixir-core/image?font=Rokkitt&forks=1&language=1&name=1&owner=1&stargazers=1&theme=Dark)
+
+## 29.[github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+
+> [GitHub Profile Views Counter / Project Sources / Komarev](https://komarev.com/sources/github-profile-views-counter)
+
+用来展示 GitHub 个人首页被访问次数的项目。使用方法：
+
+```markdown
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+```
+
+| 颜色          | 演示                                                         |
+| ------------- | ------------------------------------------------------------ |
+| `brightgreen` | [![img](https://camo.githubusercontent.com/d95eddad805cb74b43b5668d34fbeec8caa5862e3d586ebcdb5cb789b50029b0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d627269676874677265656e)](https://camo.githubusercontent.com/d95eddad805cb74b43b5668d34fbeec8caa5862e3d586ebcdb5cb789b50029b0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d627269676874677265656e) |
+| `green`       | [![img](https://camo.githubusercontent.com/0738c1278cb87edba3a12724d01d269234a83878d9a517488a6df785499c2cb5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d677265656e)](https://camo.githubusercontent.com/0738c1278cb87edba3a12724d01d269234a83878d9a517488a6df785499c2cb5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d677265656e) |
+| `yellow`      | [![img](https://camo.githubusercontent.com/f79d19942f6136a6ed45cfd1b81d32a3c50271d1df14bc0b6177814b7847d759/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d79656c6c6f77)](https://camo.githubusercontent.com/f79d19942f6136a6ed45cfd1b81d32a3c50271d1df14bc0b6177814b7847d759/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d79656c6c6f77) |
+| `yellowgreen` | [![img](https://camo.githubusercontent.com/a4eb511b578286db71dc4641e14ccc7a5368d39f89ac8d5522ba7aa9a7d305b2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d79656c6c6f77677265656e)](https://camo.githubusercontent.com/a4eb511b578286db71dc4641e14ccc7a5368d39f89ac8d5522ba7aa9a7d305b2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d79656c6c6f77677265656e) |
+| `orange`      | [![img](https://camo.githubusercontent.com/93c089970f21f935cc81765f11e8ec2e2be59d0b15a0006628554ec9ebb28ea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6f72616e6765)](https://camo.githubusercontent.com/93c089970f21f935cc81765f11e8ec2e2be59d0b15a0006628554ec9ebb28ea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6f72616e6765) |
+| `red`         | [![img](https://camo.githubusercontent.com/8329828ffd06d290efbff872118ced4c0c3ec6fbd2c008a8cefa1b320654fab4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d726564)](https://camo.githubusercontent.com/8329828ffd06d290efbff872118ced4c0c3ec6fbd2c008a8cefa1b320654fab4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d726564) |
+| `blue`        | [![img](https://camo.githubusercontent.com/af86c84e5fb58d9200fdab340bd7d7a98ab56ea75d7e5970c2eb867db126df99/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c7565)](https://camo.githubusercontent.com/af86c84e5fb58d9200fdab340bd7d7a98ab56ea75d7e5970c2eb867db126df99/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c7565) |
+| `grey`        | [![img](https://camo.githubusercontent.com/fdfcbbd3e67e51248739a7e97f9ba71da135d85374886f17ead4ec8ff1eb74c8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d67726579)](https://camo.githubusercontent.com/fdfcbbd3e67e51248739a7e97f9ba71da135d85374886f17ead4ec8ff1eb74c8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d67726579) |
+| `lightgrey`   | [![img](https://camo.githubusercontent.com/3142a2cfcc4b4f8f081678a977d34b6d02497bdc05e0b9fc9b1380bb6f1eec60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6c6967687467726579)](https://camo.githubusercontent.com/3142a2cfcc4b4f8f081678a977d34b6d02497bdc05e0b9fc9b1380bb6f1eec60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6c6967687467726579) |
+| `blueviolet`  | [![img](https://camo.githubusercontent.com/a034ff51a14254c78ee00b6b3db756320a3741d389e3c3605974e41ec3965485/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c756576696f6c6574)](https://camo.githubusercontent.com/a034ff51a14254c78ee00b6b3db756320a3741d389e3c3605974e41ec3965485/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c756576696f6c6574) |
+| `ff69b4`      | [![img](https://camo.githubusercontent.com/6491707a497e63cb6c9da1ca24515f84b357cef5cc860e3e45cab677ba8c1b77/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d666636396234)](https://camo.githubusercontent.com/6491707a497e63cb6c9da1ca24515f84b357cef5cc860e3e45cab677ba8c1b77/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d666636396234) |
+
+## 30.Waline
+
+> [Waline | Waline](https://waline.js.org/)
+
+一款简洁、安全的评论系统。
+
+![image-20230804160142915](https://raw.githubusercontent.com/King0420/Typora_images/main/202308041602569.png)
+
+## 31.[live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
+
+> [在网页中添加 Live2D 看板娘 | 米米的博客 (zhangshuqiao.org)](https://zhangshuqiao.org/2018-07/在网页中添加Live2D看板娘/)
+
+把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+
+![img](https://github.com/stevenjoezhang/live2d-widget/raw/master/assets/screenshot-3.png)
+
+## 32.[LogicFlow](https://github.com/didi/LogicFlow)
+
+> [LogicFlow (logic-flow.cn)](https://docs.logic-flow.cn/examples/#/gallery)
+
+A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+
+![图片:bpmn](https://camo.githubusercontent.com/f446a2bacfb57a9416bb759b062678f8603d367250118e90287a9b8a06dc3fd4/68747470733a2f2f647075627374617469632e7564616368652e636f6d2f7374617469632f64707562696d672f435336533671395978662f6c666578616d706c65322e676966)
+
+## 33.[relationship](https://github.com/mumuy/relationship)
+
+> [中国亲戚关系计算器 亲戚称谓计算器 亲戚称呼大全 (passer-by.com)](https://passer-by.com/relationship/)
+
+中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。
+
+![image-20230805150351880](https://raw.githubusercontent.com/King0420/Typora_images/main/202308051504909.png)
+
+## 34.[SingleFile](https://github.com/gildas-lormeau/SingleFile)
+
+用于网页存档的浏览器扩展。可实现一键下载网页，能够将网页上的文字、图片等内容，完整地整合到单个 HTML 文件里，支持 Chrome、Firefox、Safari、Microsoft Edge 等主流浏览器。
+
+![image-20230805155611898](https://raw.githubusercontent.com/King0420/Typora_images/main/202308051602051.png)
+
+## 35.[chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+一款可自定义 API 的 ChatGPT 演示网页。基于 Express 和 Vue3 构建的 GPT-3 模型演示网页，支持接入 GPT-3 API 或网页 ChatGPT。
+
+![image-20230805155706073](https://raw.githubusercontent.com/King0420/Typora_images/main/202308051602620.png)
+
+## 36.[alist](https://github.com/alist-org/alist)
+
+> [Home | AList文档 (nn.ci)](https://alist.nn.ci/zh/)
+
+一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。
+
+![image-20230805160514273](https://raw.githubusercontent.com/King0420/Typora_images/main/202308051605843.png)
+
+## 37.[snk](https://github.com/Platane/snk)
+
+> [snk - interactive (platane.github.io)](https://platane.github.io/snk/)
+
+“吃光”你所有的 GitHub 贡献。它可以根据 GitHub 上的贡献图，自动生成蛇的行走路径，一口气吃光所有“绿块”，支持生成 gif 或 svg 格式的动图。
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+## 38.[awesome-comment](https://github.com/Blankj/awesome-comment)
+
+> [神注释大全（欢迎补充） | Blankj's Blog](https://blankj.com/2017/01/11/awesome-comment/)
+
+神级注释
+
+```c++
+/***
+ *                    _ooOoo_
+ *                   o8888888o
+ *                   88" . "88
+ *                   (| -_- |)
+ *                    O\ = /O
+ *                ____/`---'\____
+ *              .   ' \\| |// `.
+ *               / \\||| : |||// \
+ *             / _||||| -:- |||||- \
+ *               | | \\\ - /// | |
+ *             | \_| ''\---/'' | |
+ *              \ .-\__ `-` ___/-. /
+ *           ___`. .' /--.--\ `. . __
+ *        ."" '< `.___\_<|>_/___.' >'"".
+ *       | | : `- \`.;`\ _ /`;.`/ - ` : | |
+ *         \ \ `-. \_ __\ /__ _/ .-` / /
+ * ======`-.____`-.___\_____/___.-`____.-'======
+ *                    `=---='
+ *
+ * .............................................
+ *          佛祖保佑             永无BUG
+ */
+
+
+/***
+ *  佛曰:
+ *          写字楼里写字间，写字间里程序员；
+ *          程序人员写程序，又拿程序换酒钱。
+ *          酒醒只在网上坐，酒醉还来网下眠；
+ *          酒醉酒醒日复日，网上网下年复年。
+ *          但愿老死电脑间，不愿鞠躬老板前；
+ *          奔驰宝马贵者趣，公交自行程序员。
+ *          别人笑我忒疯癫，我笑自己命太贱；
+ *          不见满街漂亮妹，哪个归得程序员？
+ */
+```
+
+
 
 
 
