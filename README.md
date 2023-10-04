@@ -401,6 +401,116 @@ A flow chart editing framework focusing on business customization. 专注于业�
 
 <img src="https://user-images.githubusercontent.com/8143068/147319861-edaab37d-6e87-4bf3-84c4-034a7a8c9673.jpeg" alt="ORLY: Git Branch Rescue Guide" style="zoom: 33%;" />
 
+## 44.鼠标连点器
+
+- [InJeCTrL/ClickRun: ClickRun鼠标连点器 (github.com)](https://github.com/InJeCTrL/ClickRun)
+  - ClickRun鼠标连点器
+- [taojy123/KeymouseGo: 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入(github.com)](https://github.com/taojy123/KeymouseGo)
+  - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
+
+![Preview](https://github.com/InJeCTrL/ClickRun/raw/master/View.png)
+
+<img src="https://github.com/taojy123/KeymouseGo/raw/master/Preview.png" alt="img" style="zoom:80%;" />
+
+## 45.[wai](https://github.com/DukeLuo/wai)
+
+> [新标签页 (shaiwang.life)](https://wai.shaiwang.life/)
+
+一款可以预防颈椎病的新标签页扩展。
+
+![img](https://github.com/DukeLuo/wai/raw/main/public/icons/logo128.png)
+
+## 46.[PlayEdu](https://github.com/PlayEdu/PlayEdu)
+
+> [PlayEdu培训系统-企业内部培训系统-在线学习管理平台](https://playedu.xyz/)
+
+PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
+
+![img](https://camo.githubusercontent.com/0fcb710cf4415589a3b3c41f7d2a075558e599ec06db7c07ab959f845c6be03a/68747470733a2f2f6d656564752e636c6f75642e6f73732e6d656564752e7669702f706c61796564752f2545352541342542342545352539422542452e6a7067)
+
+## 47.[1Panel](https://github.com/1Panel-dev/1Panel)
+
+> [1panel.cn/](https://1panel.cn/)
+
+🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+
+![UI展示](https://camo.githubusercontent.com/d31bf3194c21cb6f3aba482172764ec8054327c4d3c046a4e531dbad3449e640/68747470733a2f2f7265736f757263652e66697432636c6f75642e636f6d2f3170616e656c2f696d672f6f766572766965772e706e67)
+
+## 48.[BlackHole](https://github.com/Sangwan5688/BlackHole)
+
+A Music Player App made with Flutter
+
+![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
+
+## 49.[SophiApp](https://github.com/Sophia-Community/SophiApp)
+
+⚡GitHub上最强大的开源调整器，用于微调Windows 10和Windows 11
+
+![图像](https://github.com/Sophia-Community/SophiApp/raw/master/img/0.gif)
+
+## 50.[青龙](https://github.com/whyour/qinglong)
+
+> http://demo.dlww.cc:4433/crontab
+
+支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台
+
+Timed task management platform supporting Python3, JavaScript, Shell, Typescript
+
+![cover](https://user-images.githubusercontent.com/22700758/244847235-8dc1ca21-e03f-4606-9458-0541fab60413.png)
+
+## 51.[BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+
+B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+
+**BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。**
+
+![2233](https://github.com/RayWangQvQ/BiliBiliToolPro/raw/main/docs/imgs/2233.png)
+
+## 52.[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
+该项目旨在增强 Windows 上的工作环境
+
+## 53.[dujiaoka](https://github.com/assimon/dujiaoka)
+
+> https://t.me/dujiaoka
+
+🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+![首页.png](https://camo.githubusercontent.com/77a131c692dfe379286ae6626dd6bdcc54c023e8bb5676a35eb114413a2243b1/68747470733a2f2f692e6c6f6c692e6e65742f323032312f30392f31342f4e5a496c36733952586248776b6d412e706e67)
+
+## 54.[PDF-Guru](https://github.com/kevin2li/PDF-Guru)
+
+[PDF Guru](https://github.com/kevin2li/PDF-Guru)是一个通用型PDF文件处理工具，包含PDF合并、拆分、旋转、水印、加密、转换等20多项常用功能，完全开源，个人免费使用，界面简洁，简单易用。
+
+## ![img](https://camo.githubusercontent.com/900f125dcab4f34575b8ec580e0f7701db68cff857ed16eb9911e9d4dd3ef97b/68747470733a2f2f6d696e696f2e6b6576696e326c692e746f702f696d6167652d6265642f626c6f672f32303233303731393135303534332e706e67)55.[upscayl](https://github.com/upscayl/upscayl)
+
+> [upscayl.org](https://upscayl.org/)
+
+🆙Upscayl - 适用于Linux，MacOS和Windows的免费开源AI图像升频器，采用Linux优先理念构建。
+
+<img src="https://raw.githubusercontent.com/upscayl/upscayl/main/1080p_explainer.jpg" alt="截图" style="zoom: 33%;" />
+
+## 56.[Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
+
+> [Telegraph-Image|免费图床 (gurl.eu.org)](https://im.gurl.eu.org/)
+
+图像托管解决方案，Flickr / imgur替代方案，使用户可以轻松共享他们的图像。使用 Cloudflare 页面和电报。
+
+![img](https://camo.githubusercontent.com/8cb9cc8378d034454fa1a55b6a6ffd4dceec60cdd94f644cfc4dd9ddfe282d9f/68747470733a2f2f696d2e6775726c2e65752e6f72672f66696c652f6237613337633038646332633530343139393832342e706e67)
+
+## 57.[plain-app](https://github.com/ismartcoding/plain-app)
+
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理手机。使用安全、易于使用的 Web 界面从桌面访问文件、视频、音乐、联系人、短信、通话等！
+
+![家](https://github.com/ismartcoding/plain-app/raw/main/screenshots/web-home.png)
+
+## 58.[WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+
+> https://git.io/WMS
+
+朋友圈转发截图生成工具
+![1693278695088](https://github.com/King0420/GitHub-Explorer/assets/104044278/7d9703cc-1d46-4378-a5e8-95ed086fdcba)
+
 
 
 
